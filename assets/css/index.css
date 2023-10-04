@@ -1,0 +1,9 @@
+body {
+  background-image: url(/assets/img/bpna.jpg);
+  background-repeat: no-repeat;
+  background-size: 1550px;
+}
+head.div {
+  text-align: center;
+  color: bisque;
+}

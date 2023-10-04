@@ -1,0 +1,63 @@
+body {
+  background-image: url(/assets/img/artawkrn-tXnsbe-Y0To-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-clip: padding-box;
+}
+
+form {
+
+      flex-direction: column;
+      background: transparent;
+      position: relative;
+      display: flex;
+
+      align-items: center;
+      justify-content: center;
+      width: 600px;
+      box-sizing: border-box;
+      margin-left: 500px;
+      margin-top: 1px;
+      box-shadow: 0 0 600px plum;
+      border-radius: 40px;
+      -webkit-border-radius: 40px;
+      -moz-border-radius: 40px;
+      -ms-border-radius: 40px;
+      -o-border-radius: 40px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+
+    label {
+      margin: 10px 0;
+      font-weight: bold;
+    }
+
+    input {
+      width: 200px;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      margin-bottom: 20px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      -ms-border-radius: 5px;
+      -o-border-radius: 5px;
+    }
+
+    input[type="submit"] {
+
+
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+
+      button {
+        padding: 10px;
+        border-radius: 5px;
+        -webkit-border-radius: ;
+        -moz-border-radius: ;
+        -ms-border-radius: ;
+        -o-border-radius: ;
+      }
